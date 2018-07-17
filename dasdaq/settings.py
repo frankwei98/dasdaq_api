@@ -25,7 +25,7 @@ SECRET_KEY = 'h67h)gx-&-b=6(==^!@pm7#+uf7vb2v+yv@*$rp-6^z9xmggr)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [".dasdaq.io", "127.0.0.1"]
+ALLOWED_HOSTS = ["api.dasdaq.io", ".dasdaq.io", "127.0.0.1"]
 
 
 # Application definition
